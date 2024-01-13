@@ -1,2 +1,13 @@
-# people4business-front
-Prueba técnica FrontEnd para People4Business By Waldo Espinoza
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory run:
+### `npm install`
+
+To run the proyect:
+
+### `npm start`
+
